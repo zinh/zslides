@@ -11,5 +11,6 @@
  * file per style scope.
  *
  *= require reveal
+ *= require default
  *= require_self
  */
